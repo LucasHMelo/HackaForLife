@@ -1,25 +1,16 @@
-# Women_Safety_Box
-This is an Android App for Women or any Female, which Will Call to an Emergency number, based on a specific voice command like "Help" . It will also send SMS with current GPS coordinates to those numbers.
+# doglife
 
-*Make Sure that "Google" App is Installed on your phone and you give this App proper Access Permission like Call, SMS, Microphone.
+A new Flutter project.
 
-1. Registration - 
+## Getting Started
 
-![1 reg](https://user-images.githubusercontent.com/15268903/44601093-3d313680-a7fd-11e8-9e94-ba3b77d0dfc3.gif)
+This project is a starting point for a Flutter application.
 
-2. Background Voice recognation service and Help mode execution with Auto call and SMS - 
+A few resources to get you started if this is your first Flutter project:
 
-![2 help](https://user-images.githubusercontent.com/15268903/44601241-ab75f900-a7fd-11e8-92a9-28bbce9630ca.gif)
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-3. Nearby Police Station and Hospital location - 
-
-
-![3 nearbynew](https://user-images.githubusercontent.com/15268903/44601629-e9bfe800-a7fe-11e8-80f5-bbe24faf4e4f.gif)
-
-4. Information Module containing Fast Aid and Self Defence Info - 
-
-![4 safetytips](https://user-images.githubusercontent.com/15268903/44601775-65219980-a7ff-11e8-93c2-547ecff322ee.gif)
-
-
-
-
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
